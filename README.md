@@ -1,11 +1,11 @@
 # app-dev
 My First Repository
-**Fight Club**
-*Thriller Drama*
+##**Fight Club**
+##*Thriller Drama*
+###*Directed by*
+####**David Fincher**
 [fight club](https://letterboxd.com/film/fight-club/)
 ![fightclub](fightclub.jpg)
-*Directed by*
-**David Fincher**
 *Cast*
 1. **Edward Norton**
 2. **Brad Pitt**
