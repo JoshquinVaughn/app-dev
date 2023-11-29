@@ -2,7 +2,7 @@
 My First Repository
 - **Fight Club**
 - *Thriller Drama*
-- *Directed by* **David Fincher**
+- *Directed by David Fincher*
 - [fight club](https://letterboxd.com/film/fight-club/)
 - *Cast*
 1. **Edward Norton**
