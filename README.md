@@ -1,9 +1,9 @@
 # app-dev
 My First Repository
-##**Fight Club**
-##*Thriller Drama*
-###*Directed by*
-####**David Fincher**
+- **Fight Club**
+- *Thriller Drama*
+- *Directed by*
+- **David Fincher**
 [fight club](https://letterboxd.com/film/fight-club/)
 ![fightclub](fightclub.jpg)
 *Cast*
