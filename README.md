@@ -12,27 +12,6 @@ My First Repository
 3. **Helena Bonham Carter**
 4. **Jared Leto**
 
-```
-{
-  "firstName": "Edward",
-  "lastName": "Norton",
-  "age": 54,
-
-  "firstName": "Brad",
-  "lastName": "Pitt",
-  "age": 59,
-
-  "firstName": "Helena Bonham",
-  "lastName": "Carter",
-  "age": 57,
-
-   "firstName": "Jared",
-  "lastName": "Leto",
-  "age": 51,
-
-}
-```
-
 *10 RULES OF FIGHTCLUB*
 | NO.    |                                           Rules                                                | 
 | -----  | -----------------------------------------------------------------------------------------------|
